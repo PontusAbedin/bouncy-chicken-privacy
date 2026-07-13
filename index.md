@@ -20,4 +20,4 @@ locally on your device using Unity PlayerPrefs.
 This app is not directed at children under 13.
 
 ## Contact
-For questions: [din e-post]
+For questions: [pabedin@kth.se]
