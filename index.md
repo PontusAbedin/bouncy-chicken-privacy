@@ -1,8 +1,14 @@
 # Privacy Policy – Bouncy Chicken
 
-Last updated: July 23, 2026
+Last updated: August 1, 2026
 
 This Privacy Policy describes how **Bouncy Chicken** (the “App”), published by Pontus Abedin (“we”, “us”), handles information when you use the App on iOS or Android.
+
+## Support
+
+Bug reports, questions, and feedback: [pabedin@kth.se](mailto:pabedin@kth.se)
+
+Please include your device model and iOS version if you are reporting a problem.
 
 ## 1. Information we collect
 
