@@ -6,7 +6,7 @@ This Privacy Policy describes how **Bouncy Chicken** (the “App”), published 
 
 ## Support
 
-Bug reports, questions, and feedback: [pabedin@kth.se](mailto:pabedin@kth.se)
+Bug reports, questions, and feedback: [support.bouncychicken@gmail.com](mailto:support.bouncychicken@gmail.com)
 
 Please include your device model and iOS version if you are reporting a problem.
 
@@ -64,4 +64,4 @@ We may update this Privacy Policy from time to time. The “Last updated” date
 
 ## 10. Contact
 
-Questions about this Privacy Policy: [pabedin@kth.se](mailto:pabedin@kth.se)
+Questions about this Privacy Policy: [support.bouncychicken@gmail.com](mailto:support.bouncychicken@gmail.com)
